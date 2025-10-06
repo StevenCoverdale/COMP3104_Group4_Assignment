@@ -2,9 +2,9 @@
 
 ## Team Members
 **Leader:** Steven Coverdale (10072932) - [Github](https://github.com/StevenCoverdale/)
-**Member 2:**
-**Member 3:**
-**Member 4:**
+**Member 2:** 
+**Member 3:** 
+**Member 4:** 
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
