@@ -1,10 +1,12 @@
 COMP3104 - Introduction to DevOps  
 George Brown College
 
-Course Description:
+Course Description
+------------------
 This course introduces students to the principles and practices of DevOps, focusing on collaboration between development and operations teams, automation, continuous integration/continuous deployment (CI/CD), and cloud technologies.
 
-Topics Covered:
+Topics Covered
+--------------
 - DevOps fundamentals
 - Version control systems (e.g., Git)
 - Continuous integration and deployment
@@ -12,15 +14,19 @@ Topics Covered:
 - Monitoring and logging
 - Cloud computing basics
 
-Prerequisites:
+Prerequisites
+-------------
 Basic programming knowledge
 
-Credits:
+Credits
+-------
 3
 
-For more information, visit: https://www.georgebrown.ca/programs-and-courses/courses/comp3104
+For more information, visit:  
+https://www.georgebrown.ca/programs-and-courses/courses/comp3104
 
-Learning Outcomes:
+Learning Outcomes
+-----------------
 Upon successful completion of this course, students will be able to:
 - Explain the core concepts and benefits of DevOps.
 - Use version control systems to manage code collaboratively.
@@ -29,33 +35,38 @@ Upon successful completion of this course, students will be able to:
 - Monitor and troubleshoot applications in production environments.
 - Understand the role of cloud platforms in DevOps workflows.
 
-Assessment Methods:
+Assessment Methods
+------------------
 - Quizzes and assignments
 - Group projects
 - Practical labs
 - Final exam
 
-Recommended Texts and Resources:
+Recommended Texts and Resources
+-------------------------------
 - "The DevOps Handbook" by Gene Kim et al.
 - Online documentation for Git, Jenkins, Docker, and AWS/Azure
 
-Contact Information:
-Instructor: [Name]
-Email: [Email Address]
+Contact Information
+-------------------
+Instructor: [Name]  
+Email: [Email Address]  
 Office Hours: [Days/Times]
 
-Course Schedule:
-Week 1: Introduction to DevOps
-Week 2: Version Control with Git
-Week 3: CI/CD Concepts and Tools
-Week 4: Infrastructure as Code
-Week 5: Monitoring and Logging
-Week 6: Cloud Computing in DevOps
-Week 7: Group Project Presentations
+Course Schedule
+---------------
+Week 1: Introduction to DevOps  
+Week 2: Version Control with Git  
+Week 3: CI/CD Concepts and Tools  
+Week 4: Infrastructure as Code  
+Week 5: Monitoring and Logging  
+Week 6: Cloud Computing in DevOps  
+Week 7: Group Project Presentations  
 Week 8: Final Exam Review and Assessment
 
-Grading Breakdown:
-Quizzes and Assignments: 30%
-Group Projects: 25%
-Practical Labs: 25%
+Grading Breakdown
+-----------------
+Quizzes and Assignments: 30%  
+Group Projects: 25%  
+Practical Labs: 25%  
 Final Exam: 20%
