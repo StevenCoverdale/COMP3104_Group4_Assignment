@@ -1,13 +1,48 @@
+George Brown College
+====================
+
 George Brown College is a public college of applied arts and technology located in Toronto, Ontario, Canada. 
-It was established in 1967 and offers a wide range of programs including certificates, diplomas, degrees, and postgraduate studies. 
+It was established in 1967 and offers a wide range of programs including certificates, diplomas, degrees, and postgraduate studies.
 
-The college is known for its strong industry connections, hands-on learning, and focus on career readiness. 
-Major areas of study include business, health sciences, engineering technologies, hospitality, and the arts. 
-The main campuses are St. James, Casa Loma, and Waterfront.
+Key Features
+------------
 
-Website: https://www.georgebrown.ca/
+- Strong industry connections
+- Hands-on learning
+- Focus on career readiness
+
+Major Areas of Study
+--------------------
+
+- Business
+- Health Sciences
+- Engineering Technologies
+- Hospitality
+- The Arts
+
+Campuses
+--------
+
+- St. James
+- Casa Loma
+- Waterfront
+
+Website
+-------
+
+https://www.georgebrown.ca/
+
+Collaboration & Student Support
+-------------------------------
 
 George Brown College collaborates with leading employers to provide students with valuable work-integrated learning opportunities. 
 The college supports student success through services such as academic advising, career counseling, and accessible learning resources. 
 With a diverse student population, George Brown fosters an inclusive and vibrant campus community. 
 Alumni of the college contribute to various industries locally and globally.
+
+Contact Information
+-------------------
+
+- Phone: 416-415-2000
+- Email: ask.george@georgebrown.ca
+- Address: 200 King St E, Toronto, ON M5A 3W8, Canada
