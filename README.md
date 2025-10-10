@@ -1,4 +1,4 @@
-# COMP3104_Group4_Assignment [![CI](https://github.com/StevenCoverdale/COMP3104_Group4_Assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/StevenCoverdale/COMP3104_Group4_Assignment/actions/workflows/ci.yml)
+# COMP3104_Group4_Assignment [![CI](https://github.com/StevenCoverdale/COMP3104_Group4_Assignment/actions/workflows/main.yml/badge.svg)](https://github.com/mehmetemindemir/COMP3104_Group3_Assignment/actions/workflows/main.yml)
 
 ## Team Members
 **Leader:** Steven Coverdale (10072932) - [Github](https://github.com/StevenCoverdale/) <br>
