@@ -2,8 +2,8 @@
 
 ## Team Members
 **Leader:** Steven Coverdale (10072932) - [Github](https://github.com/StevenCoverdale/)
-**Member 2:** 
-**Member 3:** 
+**Member 2:** David Rashidi (101192241) - [Github](https://github.com/moewo) 
+**Member 3:** Anthony Truong (101485859) - [Github](https://github.com/Noodles702)
 **Member 4:** 
 
 ## Project Description
