@@ -1,3 +1,4 @@
 Arya Yalinkilic
 101451681
-SDLC, or Software Development Life Cycle, is a framework used to plan, design, build, test, and deploy high-quality software. It provides a systematic process that guides a project from start to finish, ensuring efficiency, consistency, and quality by defining the tasks and phases involved, such as requirements gathering, design, development, testing, and maintenance.
+SDLC, or Software Development Life Cycle, is a framework used to plan, design, build, test, and deploy high-quality software.
+It provides a systematic process that guides a project from start to finish, ensuring efficiency, consistency, and quality by defining the tasks and phases involved, such as requirements gathering, design, development, testing, and maintenance.
