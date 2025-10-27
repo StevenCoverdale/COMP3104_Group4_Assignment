@@ -1,10 +1,10 @@
-# COMP3104_Group4_Assignment
+# COMP3104_Group4_Assignment [![CI](https://github.com/StevenCoverdale/COMP3104_Group4_Assignment/actions/workflows/main.yml/badge.svg)](https://github.com/mehmetemindemir/COMP3104_Group3_Assignment/actions/workflows/main.yml)
 
 ## Team Members
-**Leader:** Steven Coverdale (10072932) - [Github](https://github.com/StevenCoverdale/)
-**Member 2:** David Rashidi (101192241) - [Github](https://github.com/moewo) 
-**Member 3:** Anthony Truong (101485859) - [Github](https://github.com/Noodles702)
-**Member 4:** 
+**Leader:** Steven Coverdale (10072932) - [Github](https://github.com/StevenCoverdale/) <br>
+**Member 2:** David Rashidi (101192241) - [Github](https://github.com/moewo) <br>
+**Member 3:** Anthony Truong (101485859) - [Github](https://github.com/Noodles702) <br>
+**Member 4:** Arya Yalinkilic (101451681) - [Github](https://github.com/aryaalinkilic) <br>
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
